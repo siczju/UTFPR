@@ -33,7 +33,51 @@
 
 *“A qualidade do produto de software está diretamente relacionada à qualidade do processo de desenvolvimento. Normas como a ISO 12119 avaliam o produto, enquanto modelos como MPS-BR e CMMI avaliam e melhoram o processo.”*
 
-→ Processo define quem está fazendo o que, quando e como
+***Processo de software***
+
+→ (O que é) → É um conjunto de passos parcialmente ordenados, constituídos por atividades, métodos, práticas e transformações, usado para atingir uma meta, que são os produtos.
+
+- **Atividades** → o que fazer (ex: programar, testar)
+- **Métodos** → como fazer (ex: usar UML, entrevistas)
+- **Práticas** → boas formas de trabalhar (ex: versionamento com Git)
+- **Transformações** → mudanças que acontecem
+
+→ (O que um processo define) Um processo define “**quem**”, está fazendo “**o que**”, “**quando**” e “**como**”, para atingir determinada meta que é a construção do software.
+
+→ (Como é feita uma documentação do processo de software) →  Um processo tem uma documentação que detalha “o que é feito (produto)”, “quando (passos)”, “por quem (agentes)”, “as coisas que usa (insumos)” e “as coisas que produz” (resultados).
+
+**Processo para Pressman e Summervile**
+
+Summervile → “É um conjunto de atividades e resultados associados que produz um produto de software.”
+
+Sommerville foca no **processo como um conjunto de atividades + resultados**.
+
+- **Atividades** → o que é feito (análise, programação, testes)
+- **Resultados (artefatos)** → o que é gerado (documentos, código, relatórios)
+
+Ideia principal:
+
+> O processo é aquilo que **leva diretamente à produção do software**.
+> 
+
+→ Visão mais **prática e orientada à produção**.
+
+Pressman → “É um arcabouço para as tarefas que são necessárias para construir softwares de alta qualidade.”
+
+Pressman vê o processo como um **arcabouço (estrutura organizada)**.
+
+- Define **como o trabalho será organizado**
+- Foca em **qualidade**
+- Mostra a **abordagem usada no desenvolvimento**
+
+Ideia principal:
+
+> O processo é uma **estrutura que guia o desenvolvimento com foco em qualidade**.
+> 
+
+→ Visão mais **gerencial e estruturada**.
+
+Resumo: **Sommerville** define o processo como um conjunto de atividades que geram o software, enquanto **Pressman** o define como uma estrutura organizada que orienta o desenvolvimento com foco na qualidade.
 
 **Processo de software é a mesma coisa que engenharia de software? NÃO, É UMA DAS COISAS QUE COMPOE A ENGENHARIA DE SOFTWARE MAS ELA É MAIS AMPLA**
 
